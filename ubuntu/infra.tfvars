@@ -14,7 +14,7 @@ OS_storageaccType       = "Standard_LRS"
 datadisk_storageaccType = "Standard_LRS"
 
 tags = {
-  Environment         = "Dev"
-  Date_Created        = "07/09/2024"
+  Environment  = "Dev"
+  Date_Created = "07/09/2024"
 
 }
