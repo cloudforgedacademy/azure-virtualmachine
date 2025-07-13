@@ -27,5 +27,5 @@ data "azurerm_subnet" "subnet" {
 data "azurerm_private_dns_zone" "dns" {
   provider            = azurerm.connectivitysubscription
   name                = "privatelink.blob.core.windows.net"
-  resource_group_name = "CC-HUB-NETWORK-RG"
+  resource_group_name = ""
 }
